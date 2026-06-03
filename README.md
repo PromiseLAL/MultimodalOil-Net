@@ -1,2 +1,2 @@
-# MultimodalOil-Net
-MultimodalOil-Net: Heterogeneous Cross-Modal Fusion for Marine Oil Spill Concentration Estimation
+# MultiInfoFuseOil
+MultiInfoFuseOil: Heterogeneous Information Fusion Framework for Marine Oil Spill Concentration Estimation
